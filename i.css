@@ -1,0 +1,35 @@
+/* .container {
+
+} */
+.title {
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+    text-align: center;
+    margin-top:120px;
+    font-size:30px;
+}
+.list {
+    display: flex;
+    justify-content: space-around;
+    margin:0 auto;
+    margin-top: 90px;
+    max-width:60%;
+    text-align: center;
+    
+
+}
+.item {
+    width:100px;
+    height:100px;
+    border: 2px gray solid;
+    padding:40px 0px;
+    box-sizing:border-box;
+    
+    
+
+}
+.container__range{
+    /* margin: 0 auto; */
+    text-align: center;
+}
